@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1682961944 source:c:\codeblocks\probleme\pa_lab\lab9\main.c
+	"grafuri.h"
+
+1682961945 c:\codeblocks\probleme\pa_lab\lab9\grafuri.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1682962122 source:c:\codeblocks\probleme\pa_lab\lab9\grafuri.c
+	"grafuri.h"
+
